@@ -1,0 +1,2 @@
+*the first thing that we usually do with a new project is to create the package.json file using the command: npm init
+*it's of convention to have all express configuration in app.js 
